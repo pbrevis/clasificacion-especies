@@ -1,6 +1,6 @@
-### Desarrollo de un modelo CNN para clasificar imágenes de escarabajos a nivel de especie
+### Desarrollo de un modelo CNN para clasificación taxonómica de imágenes de escarabajos
  
-Este repositorio contiene códigos en lenguaje Python para desarrollar un modelo CNN (convolutional neural network) usando el paquete para aprendizaje automático [Tensorflow](https://www.tensorflow.org).
+Este repositorio contiene códigos en lenguaje [Python](https://github.com/pbrevis/clasificacion-especies/blob/main/main.py) para desarrollar un modelo de visión computacional CNN (convolutional neural network) usando el paquete de aprendizaje automático [Tensorflow](https://www.tensorflow.org).
 
 El propósito es clasificar imágenes de escarabajos a nivel de especie. Las imágenes para entrenar el modelo CNN fueron obtenidas del [repositorio](https://github.com/Jarrett-Blair/Intro-to-CV-for-Ecologists) publicado por Blair et al. (2024).
 
